@@ -1,0 +1,27 @@
+#home {
+    background-color: blueviolet;
+}
+#image1{
+    width: 15%;
+}
+#image2{
+    width: 40%;
+}
+.color-purple{
+    color: #481773;
+}
+.recipie-img{
+    cursor: pointer;
+}
+#footer{
+    background-color: black;
+}
+#about{
+    background-color:#d3b0f4 ;
+}
+#toprecipies {
+    background-color: #ae6deb;
+} 
+.ratings{
+    color: rgb(232, 211, 21);
+}
